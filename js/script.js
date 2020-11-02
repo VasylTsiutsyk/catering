@@ -28,3 +28,8 @@ function scrollFunction() {
 
 //links
 document.getElementById('linkToAbout').href = window.location.href + '#about'
+document.getElementById('linkToParties').href = window.location.href + '#parties'
+document.getElementById('linkToTeam').href = window.location.href + '#team'
+document.getElementById('linkToGallery').href = window.location.href + '#gallery'
+document.getElementById('linkToClients').href = window.location.href + '#clients'
+document.getElementById('linkToContact').href = window.location.href + '#contact'
