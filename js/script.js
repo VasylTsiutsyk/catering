@@ -23,3 +23,9 @@ function scrollFunction() {
     const scrolled = (winScroll / height) * 100;
     document.querySelector("#progressBar").style.width = scrolled + "%";
 }
+
+
+console.log(window.history)
+
+
+document.getElementById('linkToAbout').href = window.location.href + '#about'
