@@ -29,6 +29,11 @@ textarea:focus {
   outline: 2px solid #3EADEC;
 }
 
+section,
+.footer {
+  scroll-margin-top: 5rem;
+}
+
 .title {
   font-family: "Montserrat", sans-serif;
   font-size: 57px;

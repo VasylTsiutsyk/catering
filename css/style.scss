@@ -64,6 +64,11 @@
         }
         
         //general
+        section,
+        .footer {
+            scroll-margin-top: 5rem;
+        }
+        
         .title {
             font-family: $ff-base;
             font-size: 57px;
