@@ -25,7 +25,6 @@ function scrollFunction() {
 }
 
 
-console.log(window.history)
 
-
+//links
 document.getElementById('linkToAbout').href = window.location.href + '#about'
